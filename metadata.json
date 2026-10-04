@@ -1,0 +1,8 @@
+{
+  "name": "Remix Student Score Prediction System",
+  "description": "An interactive regression-based mathematical modeling application for student exam score estimation using Simple Linear Regression and Multiple Linear Regression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
